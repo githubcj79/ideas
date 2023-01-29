@@ -8,4 +8,8 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
+<<<<<<< HEAD
 - [ ] Debugging with the Grace Hopper Method
+=======
+- [ ] Blockchains with BASIC
+>>>>>>> cf5de2e2871890b677556004dca1affdb2ccaca5
